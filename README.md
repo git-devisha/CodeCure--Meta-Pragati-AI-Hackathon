@@ -1,4 +1,4 @@
-# CodeCure--Meta-Pragati-AI-Hackathon
+# CodeCure -Meta Pragati AI Hackathon
 
 # Bone Fracture Detection System
 ## Overview
