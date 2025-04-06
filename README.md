@@ -91,12 +91,12 @@ The system utilizes a VGG16 convolutional neural network architecture with the f
 
 ```
 bone-fracture-detection/
-├── app.py               # Main application file
+├── server.py             # Main application file
 ├── requirements.txt     # Python dependencies
 ├── weights/             # Model weights directory
 │   └── model_vgg.pt     # Trained model weights
 ├── README.md            # This file
-└── assets/              # Images and additional resources
+└── data/              # Images and additional resources
 ```
 
 ## Requirements
