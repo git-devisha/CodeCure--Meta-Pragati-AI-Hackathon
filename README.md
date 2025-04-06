@@ -1,9 +1,6 @@
 # CodeCure--Meta-Pragati-AI-Hackathon
 
 # Bone Fracture Detection System
-
-![Bone Fracture Detection](https://cdn-icons-png.flaticon.com/512/6615/6615039.png)
-
 ## Overview
 
 The Bone Fracture Detection System is an open-source AI-powered application that analyzes X-ray images to detect and classify bone fractures. Built using deep learning and computer vision technologies, this tool assists healthcare professionals by providing preliminary fracture analysis with visual identification and classification.
